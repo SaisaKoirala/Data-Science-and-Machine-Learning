@@ -1,9 +1,9 @@
-# Suspicious transaction detection helps find possible fraud in financial systems. Here, we
-use the transaction and customer data, joining them through customer ID, and apply feature
-engineering and data preprocessing to make the data ready for analysis. By looking at
-location, age group, time of day, and transaction type, we can see which transactions are
-more likely to be suspicious. This helps in deciding where to focus monitoring and improve
-security.
+# -----------Suspicious transaction detection helps find possible fraud in financial systems---------- 
+# Here, we use the transaction and customer data, joining them through customer ID, and apply feature
+# engineering and data preprocessing to make the data ready for analysis. By looking at
+# location, age group, time of day, and transaction type, we can see which transactions are
+# more likely to be suspicious. This helps in deciding where to focus monitoring and improve
+# security.
 
 import pandas as pd
 import seaborn as sns
